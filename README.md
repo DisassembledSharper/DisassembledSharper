@@ -1,1 +1,3 @@
-![alt](https://github.com/Neyuriki/Neyuriki/blob/master/Java.png) ![alt](https://github.com/Neyuriki/Neyuriki/blob/master/CSharp.png)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Neyuriki&theme=radical&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neyuriki&hide=ShaderLab,HLSL&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
